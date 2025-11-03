@@ -97,7 +97,3 @@ Performed EDA using **tidyverse** and **ggplot2**, focusing on:
 - Category- and audience-specific targeting (e.g., mature vs general apps) helps developers optimize performance.  
 - Future work: build an **interactive dashboard (R Shiny)** integrating category filters and visualization widgets.
 
-
-
-
-## 📁 Repository Structure
